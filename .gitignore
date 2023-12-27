@@ -76,5 +76,4 @@ crashlytics-build.properties
 .vscode/
 .idea/
 
-Sources/
 TestScene/
